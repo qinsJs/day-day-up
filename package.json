@@ -1,0 +1,14 @@
+{
+  "name": "day-day-up",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "qins",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
